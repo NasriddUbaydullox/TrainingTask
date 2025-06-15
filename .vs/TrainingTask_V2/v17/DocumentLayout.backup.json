@@ -6,6 +6,9 @@
       "AbsoluteMoniker": "D:0:0:{F80BE6BF-75C2-4FB7-86EB-C3E1712E62A9}|..\\ProductService\\ProductService.csproj|d:\\c#\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F80BE6BF-75C2-4FB7-86EB-C3E1712E62A9}|..\\ProductService\\ProductService.csproj|d:\\c#\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0C12CA7-0FEF-4806-B578-BE2765D23F78}|OrderService.csproj|d:\\c#\\trainingtask_v2\\extensions\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0C12CA7-0FEF-4806-B578-BE2765D23F78}|OrderService.csproj|solutionrelative:extensions\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -100,9 +103,6 @@
       "AbsoluteMoniker": "D:0:0:{F80BE6BF-75C2-4FB7-86EB-C3E1712E62A9}|..\\ProductService\\ProductService.csproj|d:\\c#\\productservice\\mediator\\products\\createproduct\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F80BE6BF-75C2-4FB7-86EB-C3E1712E62A9}|..\\ProductService\\ProductService.csproj|d:\\c#\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F80BE6BF-75C2-4FB7-86EB-C3E1712E62A9}|..\\ProductService\\ProductService.csproj|d:\\c#\\productservice\\mediator\\products\\getproductbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -169,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\C#\\ProductServiceTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\ProductServiceTests\\UnitTest1.cs",
@@ -181,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Extension.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Extensions\\Extension.cs",
               "RelativeDocumentMoniker": "Extensions\\Extension.cs",
@@ -193,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CreateProductCommandHandler.cs",
               "DocumentMoniker": "D:\\C#\\ProductService\\Mediator\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
               "RelativeDocumentMoniker": "..\\ProductService\\Mediator\\Products\\CreateProduct\\CreateProductCommandHandler.cs",
@@ -205,15 +205,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "D:\\C#\\ProductService\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "..\\ProductService\\Controllers\\ProductController.cs",
               "ToolTip": "D:\\C#\\ProductService\\Controllers\\ProductController.cs",
               "RelativeToolTip": "..\\ProductService\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwB0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T11:33:55.772Z"
+              "WhenOpened": "2025-06-13T11:33:55.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -241,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductClient.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\ProductClients\\ProductClient.cs",
               "RelativeDocumentMoniker": "ProductClients\\ProductClient.cs",
@@ -265,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateOrderCommandHandler.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Mediator\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
               "RelativeDocumentMoniker": "Mediator\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
@@ -283,14 +284,14 @@
               "RelativeDocumentMoniker": "..\\ProductService\\Program.cs",
               "ToolTip": "D:\\C#\\ProductService\\Program.cs",
               "RelativeToolTip": "..\\ProductService\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T11:59:01.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -314,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetOrderByIdQueryHandler.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Mediator\\Orders\\GetOrderById\\GetOrderByIdQueryHandler.cs",
               "RelativeDocumentMoniker": "Mediator\\Orders\\GetOrderById\\GetOrderByIdQueryHandler.cs",
@@ -326,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CreateOrderExample.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Examples\\CreateOrderExample.cs",
               "RelativeDocumentMoniker": "Examples\\CreateOrderExample.cs",
@@ -338,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20250613130936_InitialCreate.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Migrations\\20250613130936_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250613130936_InitialCreate.cs",
@@ -350,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Dtos\\ProductDto.cs",
               "RelativeDocumentMoniker": "Dtos\\ProductDto.cs",
@@ -362,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\DataAccess\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
@@ -386,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "OrderController.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
@@ -398,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\DataAccess\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Order.cs",
@@ -434,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CreateOrderDto.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Dtos\\CreateOrderDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CreateOrderDto.cs",
@@ -446,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -470,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GetOrderExample.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Examples\\GetOrderExample.cs",
               "RelativeDocumentMoniker": "Examples\\GetOrderExample.cs",
@@ -482,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20250613191210_CreatedUsersEntity.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Migrations\\20250613191210_CreatedUsersEntity.cs",
               "RelativeDocumentMoniker": "Migrations\\20250613191210_CreatedUsersEntity.cs",
@@ -494,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CreateOrderCommand.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Mediator\\Orders\\CreateOrder\\CreateOrderCommand.cs",
               "RelativeDocumentMoniker": "Mediator\\Orders\\CreateOrder\\CreateOrderCommand.cs",
@@ -506,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "20250613192400_DeletedUserEntity.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Migrations\\20250613192400_DeletedUserEntity.cs",
               "RelativeDocumentMoniker": "Migrations\\20250613192400_DeletedUserEntity.cs",
@@ -518,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "GetOrderByIdQuery.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Mediator\\Orders\\GetOrderById\\GetOrderByIdQuery.cs",
               "RelativeDocumentMoniker": "Mediator\\Orders\\GetOrderById\\GetOrderByIdQuery.cs",
@@ -530,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Dtos\\OrderDto.cs",
               "RelativeDocumentMoniker": "Dtos\\OrderDto.cs",
@@ -554,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "20250613174707_AddedQuantityPropToEntity.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Migrations\\20250613174707_AddedQuantityPropToEntity.cs",
               "RelativeDocumentMoniker": "Migrations\\20250613174707_AddedQuantityPropToEntity.cs",
@@ -638,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Reposiotries\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Reposiotries\\OrderRepository.cs",
@@ -650,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "D:\\C#\\TrainingTask_V2\\Reposiotries\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Reposiotries\\Interfaces\\IOrderRepository.cs",
