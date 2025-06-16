@@ -31,19 +31,19 @@
                 "schema": {
                   "$ref": "#/components/schemas/OrderDto"
                 },
-                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T09:44:30.6181684Z","quantity":10}
+                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T17:48:34.4172272Z","quantity":10}
               },
               "application/json": {
                 "schema": {
                   "$ref": "#/components/schemas/OrderDto"
                 },
-                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T09:44:30.6181684Z","quantity":10}
+                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T17:48:34.4172272Z","quantity":10}
               },
               "text/json": {
                 "schema": {
                   "$ref": "#/components/schemas/OrderDto"
                 },
-                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T09:44:30.6181684Z","quantity":10}
+                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T17:48:34.4172272Z","quantity":10}
               }
             }
           },
@@ -65,19 +65,19 @@
               "schema": {
                 "$ref": "#/components/schemas/CreateOrderCommand"
               },
-              "example": {"productId":1,"createdAt":"2025-06-15T09:44:30.6254986Z","quantity":10}
+              "example": {"productId":1,"createdAt":"2025-06-15T17:48:34.4235062Z","quantity":10}
             },
             "text/json": {
               "schema": {
                 "$ref": "#/components/schemas/CreateOrderCommand"
               },
-              "example": {"productId":1,"createdAt":"2025-06-15T09:44:30.6254986Z","quantity":10}
+              "example": {"productId":1,"createdAt":"2025-06-15T17:48:34.4235062Z","quantity":10}
             },
             "application/*+json": {
               "schema": {
                 "$ref": "#/components/schemas/CreateOrderCommand"
               },
-              "example": {"productId":1,"createdAt":"2025-06-15T09:44:30.6254986Z","quantity":10}
+              "example": {"productId":1,"createdAt":"2025-06-15T17:48:34.4235062Z","quantity":10}
             }
           }
         },
@@ -89,19 +89,19 @@
                 "schema": {
                   "$ref": "#/components/schemas/OrderDto"
                 },
-                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T09:44:30.6256572Z","quantity":10}
+                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T17:48:34.4235994Z","quantity":10}
               },
               "application/json": {
                 "schema": {
                   "$ref": "#/components/schemas/OrderDto"
                 },
-                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T09:44:30.6256572Z","quantity":10}
+                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T17:48:34.4235994Z","quantity":10}
               },
               "text/json": {
                 "schema": {
                   "$ref": "#/components/schemas/OrderDto"
                 },
-                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T09:44:30.6256572Z","quantity":10}
+                "example": {"id":1,"productId":8,"createdAt":"2025-06-15T17:48:34.4235994Z","quantity":10}
               }
             }
           },
